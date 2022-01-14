@@ -1,0 +1,21 @@
+body {
+    font-family: helvetica, sans-serif;
+    width: 350px;
+}
+
+div {
+    padding: 20px;
+    border: solid 1px #FFC125;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 150px;
+}
+
+p {
+    background: #FFC125;
+    color: #5E2612;
+    padding: 10px;
+    /* visibility: hidden; */
+}
